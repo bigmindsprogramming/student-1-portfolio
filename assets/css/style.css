@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(240,240,240);
+}
+
+#logo {
+    background-color: rgb(113, 160, 230);
+    color: aliceblue;
+    padding: 30px;
+    font-size: 30px;
+    border: 10px;
+    border-radius: 10px;
+}
+#navbar-1 {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.line {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: grey;
+    height: 1px;
+    margin-top: 10px;
+}
+.container {
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+.header {
+    font-size: 25px;
+    font-family:   Georgia, 'Times New Roman', Times, serif;
+    color: rgb(113, 160, 230);
+    padding: 20px 20px 20px 10px;
+}
+/* _(ツ)_ */
